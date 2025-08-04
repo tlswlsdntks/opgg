@@ -1,0 +1,6 @@
+[submodule "back_n"]
+	path = back_n
+	url = https://github.com/tlswlsdntks/back_n.git
+[submodule "front_r"]
+	path = front_r
+	url = https://github.com/tlswlsdntks/front_r.git
